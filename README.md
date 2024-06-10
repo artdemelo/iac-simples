@@ -1,4 +1,4 @@
-# linux-iac-simples
+# iac-simples
 Estudo de infraestrutura como código com o objetivo de criar um ambiente simples em uma máquina linux (Ubuntu Server) através de um Bash Script.
 
 A máquina deve possuir 9 usuários e 3 grupos. 
